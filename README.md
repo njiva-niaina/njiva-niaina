@@ -60,7 +60,7 @@
 
 <p align="left">
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njiva-niaina" alt="njiva-niaina">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njiva-niaina&theme=tokyonight" alt="njiva-niaina">
   </a>
 </p>
 
