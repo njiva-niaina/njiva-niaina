@@ -58,6 +58,6 @@
   </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=njiva-niaina&show_icons=true&locale=en" alt="njiva-niaina" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=njiva-niaina&show_icons=true&locale=en" href="https://github.com/njiva-niaina?tab=repositories" alt="njiva-niaina" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njiva-niaina&" alt="njiva-niaina" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njiva-niaina&" href="https://github.com/njiva-niaina?tab=repositories" alt="njiva-niaina" /></p>
