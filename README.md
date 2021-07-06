@@ -61,7 +61,7 @@
 
 <p align="left">
   <a href="https://github.com/njiva-niaina?tab=repositories"
-     ><img align="center" src="https://github-readme-stats.vercel.app/api?username=njiva-niaina&show_icons=true&locale=en&count_private=true&theme=radical&show_owner=false" alt="njiva-niaina" />
+     ><img align="center" src="https://github-readme-stats.vercel.app/api?username=njiva-niaina&show_icons=true&locale=en&count_private=true&theme=dark&show_owner=false" alt="njiva-niaina" />
   </a>
 </p>
 <p align="left">
