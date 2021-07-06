@@ -58,12 +58,13 @@
   </a> 
 </p>
 
-<p>&nbsp;
+
+<p align="left">&nbsp;
   <a href="https://github.com/njiva-niaina?tab=repositories"
      ><img align="center" src="https://github-readme-stats.vercel.app/api?username=njiva-niaina&show_icons=true&locale=en" alt="njiva-niaina" />
   </a>
 </p>
-<p>
+<p align="left">
   <a href="https://github.com/njiva-niaina?tab=repositories">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njiva-niaina&" alt="njiva-niaina" />
   </a>
