@@ -59,7 +59,7 @@
 </p>
 
 
-<p align="left">&nbsp;
+<p align="left">
   <a href="https://github.com/njiva-niaina?tab=repositories"
      ><img align="center" src="https://github-readme-stats.vercel.app/api?username=njiva-niaina&show_icons=true&locale=en" alt="njiva-niaina" />
   </a>
