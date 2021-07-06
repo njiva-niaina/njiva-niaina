@@ -58,14 +58,20 @@
   </a> 
 </p>
 
+<p align="left">
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njiva-niaina&layout=compact" alt="njiva-niaina">
+  </a>
+</p>
+
 
 <p align="left">
-  <a href="https://github.com/njiva-niaina?tab=repositories"
-     ><img align="center" src="https://github-readme-stats.vercel.app/api?username=njiva-niaina&show_icons=true&locale=en&count_private=true&theme=synthwave&hide_title=true" alt="njiva-niaina" />
+  <a href="https://github.com/njiva-niaina?tab=repositories">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=njiva-niaina&show_icons=true&count_private=true&theme=tokyonigth&hide_title=true&hide_border=true" alt="njiva-niaina" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/njiva-niaina?tab=repositories">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njiva-niaina&" alt="njiva-niaina" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=njiva-niaina&theme=tokyonight&hide_border=true" alt="njiva-niaina" />
   </a>
 </p>
