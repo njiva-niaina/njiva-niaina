@@ -59,8 +59,8 @@
 </p>
 
 <p align="left">
-  <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njiva-niaina&theme=tokyonight" alt="njiva-niaina">
+  <a href="https://github.com/njiva-niaina?tab=repositories">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njiva-niaina&theme=tokyonight&hide_border=true" alt="njiva-niaina">
   </a>
 </p>
 
