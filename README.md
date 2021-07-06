@@ -59,7 +59,7 @@
 </p>
 
 <p>&nbsp;
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=njiva-niaina&show_icons=true&locale=en" alt="njiva-niaina" /></a>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=njiva-niaina&show_icons=true&locale=en" alt="njiva-niaina" /></a>
 </p>
 <p>
   <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njiva-niaina&" alt="njiva-niaina" /></a>
